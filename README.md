@@ -3,7 +3,9 @@ The main example class to see is `src/main/java/GalileoApiGateway.java`.
 ## 3 steps to run this app
 
 1. Install Brew:
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 2. Install Maven:
 ```
