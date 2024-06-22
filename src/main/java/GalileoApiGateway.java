@@ -21,8 +21,8 @@ import java.util.UUID;
 
 public class GalileoApiGateway {
 
-    private static String ROOT_URL = "https://api.dev.rungalileo.io";
-    private static String GALILEO_API_KEY = "bXYtdhtyDB7o2n_IUQlkgMFcN-RkPZbmm5tTE7mtVsI";
+    private static String ROOT_URL;
+    private static String GALILEO_API_KEY;
 
     public Responses.LoginResponse login() {
         String loginURL = ROOT_URL + "/login/api_key";
