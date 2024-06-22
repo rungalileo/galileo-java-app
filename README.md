@@ -1,4 +1,4 @@
-The main example class to see is `GalileoApiGateway.java`.
+The main example class to see is `src/main/java/GalileoApiGateway.java`.
 
 ## 3 steps to run this app
 
