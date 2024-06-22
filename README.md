@@ -1,4 +1,6 @@
-3 steps to run this app
+The main example class to see is `GalileoApiGateway.java`.
+
+## 3 steps to run this app
 
 1. Install Brew:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -16,3 +18,4 @@ Get the GALILEO_API_KEY by
 - Click your icon (on the bottom left)
 - API Keys
 - Create one
+
